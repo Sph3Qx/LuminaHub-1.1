@@ -1,4 +1,4 @@
-Mod Launcher for Hoyoverse and Wuthering Waves
+Mod Launcher for Hoyoverse Games and Wuthering Waves
 
 Thank you for viewing this project! This is a mod launcher designed for all Hoyoverse games and Wuthering Waves. I created this just for fun, and to assure you that this is not spyware, I have made the source code available here.
 
@@ -10,7 +10,8 @@ User-friendly interface for easy navigation.
 
 Latest Update
 
-Fixed UI bugs with the "Load Game" button caused by overlapping text.
+Fixed UI bugs with the "Load Game" button caused by overlapping text. 
+Fixed Windowsa Defender Bug Fix caused by plugin. 
 
 Special Thanks
 
